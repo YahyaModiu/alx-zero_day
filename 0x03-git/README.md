@@ -1,2 +1,2 @@
 happy
-Coding is amaizing
+Coding is amaizing.
